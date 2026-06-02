@@ -231,7 +231,7 @@ associare un codice **più corto** ai caratteri **più frequenti**, e **più lun
 
 | **STEP**                                                                                            | **CONSEGNA**                                                                                                           |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| (1) Costruzione tabella delle frequenze dei caratteri                                               | [`char-frequency.md`](https://nickolausenteaching.github.io/#!./as2526/3M-Pascal/UD/huffman/char-frequency.md)         |
-| (2) Costruzione dell'albero di Huffman (richiede di avere una PQ — possibilmente basata su MinHeap) | [`build-huffman-tree.md`](https://nickolausenteaching.github.io/#!./as2526/3M-Pascal/UD/huffman/build-huffman-tree.md) |
+| (1) Costruzione tabella delle frequenze dei caratteri                                               | [`char-frequency.md`](https://didattica-nm.github.io.github.io/#!./as2526/3M-Pascal/UD/huffman/char-frequency.md)         |
+| (2) Costruzione dell'albero di Huffman (richiede di avere una PQ — possibilmente basata su MinHeap) | [`build-huffman-tree.md`](https://didattica-nm.github.io/#!./as2526/3M-Pascal/UD/huffman/build-huffman-tree.md) |
 | (3) Calcolo dei codici per ciascun carattere                                                        | [`TODO`](#)                                                                                                            |
 | (4) Codifica del testo in input                                                                     | [`TODO`](#)                                                                                                            |
