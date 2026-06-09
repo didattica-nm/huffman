@@ -16,8 +16,7 @@ class HuffmanEncoder
         // 3) Calcolo i codici per ciascun carattere
         var codes = CalculateHuffmanCodes(huffmanTree);
 
-        // 4) TODO: Dati i codici appena calcolati, completare la codifica!
-        // [...]
-        // return [...] 
+        // 4) Dati i codici appena calcolati, completare la codifica!
+        return HuffmanEncode(content, codes); 
     }
 }
